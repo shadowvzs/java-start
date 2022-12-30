@@ -52,5 +52,8 @@ public class MyFrame extends JFrame {
         // if label bound and frame layout not setted then this auto size the frame
         // must be after all component added into frame
         // frame.pack();
+
+        // dialog - popup
+        // JOptionPane.showConfirmDialog("dialog text", "dialog popup title");
     }
 }
